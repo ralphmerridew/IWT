@@ -10,6 +10,7 @@ namespace TestGit {
             Console.WriteLine("Hello World, through Git.");
             Console.WriteLine("More stuff.");
             Console.WriteLine("Even more stuff.");
+            Console.WriteLine("Still more stuff.");
         }
     }
 }
